@@ -139,6 +139,7 @@ void loop()
       targetDistance = firstDistance;
       delay(20);
       robotState = romiMoveTo;
+          delay(20);
     }
   break;
 
